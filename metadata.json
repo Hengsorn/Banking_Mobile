@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Bank",
+  "description": "Lumina Bank - Personal Banking App showing transaction activity, money transfers, card management, budgets, and wealth portfolio indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
